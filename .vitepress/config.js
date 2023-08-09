@@ -9,7 +9,7 @@ export default {
   },
   themeConfig: {
     socialLinks: [
-      { icon: "github", link: "https://github.com/eupnea-linux" },
+      { icon: "github", link: "https://github.com/enter-dragon" },
     ],
     sidebar: [
       {
@@ -65,7 +65,7 @@ export default {
       {
         text: "👥 Community",
         items: [
-          { text: "GitHub (source code)", link: "https://github.com/eupnea-linux" },
+          { text: "GitHub (source code)", link: "https://github.com/enter-dragon" },
           { text: "Revolt server", link: "https://rvlt.gg/6YxHB2Cz" },
           { text: "Discord server", link: "https://discord.gg/XwRHSUbSmu" },
         ]
@@ -83,11 +83,11 @@ export default {
     ],
     [
       "meta",
-      { property: "og:url", content: "https://eupnea-linux.github.io/" }
+      { property: "og:url", content: "https://enter-dragon.github.io/" }
     ],
     [
       "meta",
-      { property: "og:image", content: "https://eupnea-linux.github.io/assets/project-icon.svg" }
+      { property: "og:image", content: "https://enter-dragon.github.io/assets/project-icon.svg" }
     ],
     [
       "meta",
