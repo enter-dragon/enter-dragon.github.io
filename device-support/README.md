@@ -5,3 +5,6 @@
   comment.
 * devices-list.json: The final list of devices, generated
   from https://chromiumdash.appspot.com/cros/fetch_serving_builds?deviceCategory=ChromeOS and devices-overrides.json.
+  
+
+Note: some url may be broken
